@@ -1,0 +1,11 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "autoload classes",
+    "authors": [
+        {
+            "name": "Ben Peng",
+            "email": "3a732078@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
